@@ -5,5 +5,5 @@
 <p>~ <strong>Email</strong>: m22002b@gmail.com</p>
 <h1><strong>Небольшая статистика:</strong></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=KrasProject-2021&show_icons=true&count_private=true">
-<img src="https://gpvc.arturio.dev/KrasProject2021">
+<p algin="center"><img src="https://gpvc.arturio.dev/KrasProject2021"></p>
 </em>
